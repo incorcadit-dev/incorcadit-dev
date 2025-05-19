@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **egayvladimir1@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences (coming soon)
 
 <p align="left">
 </p>
