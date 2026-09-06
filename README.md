@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm incorcadit</h1>
-<h3 align="center">I'm a student at Soongsil Uni, currently learning front-end development through Udemy guides. I'm passionate about building user-friendly interfaces and constantly improving my skills in HTML, CSS, JavaScript, and modern frameworks.</h3>
+
 
 - 📫 How to reach me **egayvladimir1@gmail.com**
 
-- 📄 Know about my experiences (coming soon)
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
