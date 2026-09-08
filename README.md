@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">A passionate Web developer from Korea</h3>
+
 
 - 🌱 I’m currently learning **Kotlin, React**
 
